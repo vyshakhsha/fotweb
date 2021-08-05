@@ -280,6 +280,10 @@ h3 {
     grid-template-columns: 100%;
     text-align: center;
   }
+  .container3 img {
+  margin:3% 0%;
+}
+
 .container3 p {
   margin: 2.5% 0%;
 }
@@ -293,7 +297,7 @@ h3 {
   .container3 p {
     font-size: 1rem;
   }
-
+  
   h3 {
     font-size: 2rem;
   }
