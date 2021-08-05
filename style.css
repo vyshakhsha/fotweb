@@ -525,13 +525,15 @@ h3 {
   footer p{
     font-size: .5rem;
   }
-  .container6{
-    padding: 5% 7%;
-  }
   .matches-grid-items img{
     width: 60%;
     height: auto;
   }
+  .container6{
+    padding: 6% 7%;
+    background: rgb(231, 224, 238);
+  }
+
 }
 
 /* footer stylling */
