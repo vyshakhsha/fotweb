@@ -503,7 +503,7 @@ h3 {
     text-align:center;
   }
   .matches-grid-items img{
-    width: 60%;
+    width: 80%;
     height: auto;
   }
   .fans{
@@ -527,6 +527,10 @@ h3 {
   }
   .container6{
     padding: 5% 7%;
+  }
+  .matches-grid-items img{
+    width: 60%;
+    height: auto;
   }
 }
 
