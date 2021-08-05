@@ -280,7 +280,9 @@ h3 {
     grid-template-columns: 100%;
     text-align: center;
   }
-
+.container3 p {
+  margin: 2.5% 0%;
+}
   .container3-item {
     padding: 1%;
     text-align: center;
