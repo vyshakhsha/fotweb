@@ -405,7 +405,7 @@ h3 {
   width: 70%;
   height: 50px;
   outline: none;
-  border-radius: 1px;
+  border-radius: 10px;
 }
 .btn2{
   height: 50px;
@@ -483,7 +483,7 @@ h3 {
 }
 .btn3 {
   
-  border-radius: 1px;
+  border-radius: 10px;
   color: #ffffff;
   font-size: 1.5rem;
   background:rgb(17, 0, 31);
