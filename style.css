@@ -405,7 +405,7 @@ h3 {
   width: 70%;
   height: 50px;
   outline: none;
-  border-radius: 6px;
+  border-radius: 1px;
 }
 .btn2{
   height: 50px;
@@ -482,9 +482,8 @@ h3 {
   text-align: center;
 }
 .btn3 {
-  -webkit-border-radius: 10;
-  -moz-border-radius: 10;
-  border-radius: 10px;
+  
+  border-radius: 1px;
   color: #ffffff;
   font-size: 1.5rem;
   background:rgb(17, 0, 31);
@@ -492,6 +491,7 @@ h3 {
   height: 40px;
   text-decoration: none;
   margin: 2% 0%;
+  outline:none;
 }
 
 .btn3:hover {
