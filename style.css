@@ -302,6 +302,7 @@ h3 {
   padding: 2% 7% 2%;
   text-align: center;
   color:rgb(17, 0, 31);
+  background: rgb(231, 224, 238);
 }
 .container4 P{
   padding: 2%;
@@ -409,7 +410,7 @@ h3 {
   border-radius: 6px;
 }
 .btn2:hover{
-  background: rgb(108, 90, 124);
+  background: rgb(231, 224, 238);
   color:#000;
 }
 @media (max-width:950px) {
@@ -445,6 +446,7 @@ h3 {
 
 .container6{
   padding: 5% 7%;
+  background: rgb(231, 224, 238);
 }
 .container6 h2{
   font-size: 4rem;
@@ -487,7 +489,7 @@ h3 {
 }
 
 .btn3:hover {
-  background: #2b138f;
+  background: rgb(45, 0, 78);
   text-decoration: none;
 }
 @media (max-width:1050px) {
